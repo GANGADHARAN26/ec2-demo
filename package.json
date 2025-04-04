@@ -1,0 +1,23 @@
+{
+  "name": "aws-ec2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GANGADHARAN26/aws-ec2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GANGADHARAN26/aws-ec2/issues"
+  },
+  "homepage": "https://github.com/GANGADHARAN26/aws-ec2#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
